@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-//11111
 public class TestSort {
     public static final int x = 100000;
 
